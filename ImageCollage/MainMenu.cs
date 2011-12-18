@@ -97,7 +97,7 @@ namespace ImageCollage
                 "All files (*.*)|*.*";
 
             // Allow the user to select multiple images.
-            this.openFileDialog1.Multiselect = true;
+            //this.openFileDialog1.Multiselect = true;
             this.openFileDialog1.Title = "My Image Browser";
         }
 
